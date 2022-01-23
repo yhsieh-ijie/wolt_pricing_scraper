@@ -1,4 +1,4 @@
-# wolt_pricing_scraper
+# Wolt Pricing Scraper
 
 ## Context and Objective
 
